@@ -1,0 +1,24 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+
+venv/
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Виртуальные окружения Python
+venv/
+ENV/
+env/
+.venv/
+pip-selfcheck.json
+
